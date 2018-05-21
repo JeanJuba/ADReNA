@@ -17,7 +17,7 @@ import ADReNA_API.NeuralNetwork.Backpropagation;
 public class Import {
 	
 	/*
-     * Recupera um conjunto de padrões para treinamento
+     * Recupera um conjunto de padrï¿½es para treinamento
      */
      public static ADReNA_API.Data.DataSet DataSet(String file) throws FileNotFoundException
      {
